@@ -5,13 +5,8 @@ import java.awt.*;
 
 public class UploadedImages {
 
-
-
     public Image dot;
     public Image apple;
-
-
-
 
     public void loadImages(){
         ImageIcon iia = new ImageIcon("apple32.png");
