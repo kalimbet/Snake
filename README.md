@@ -2,7 +2,7 @@
 
 Classic game: Snake
 
-Control: Left, Right, Up, Down, Right
+Control: Left, Right, Up, Down
 
 Good luck in my game!
 
